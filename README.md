@@ -1,4 +1,4 @@
-# CS-131-Programming-Languages
+# CS131
 Assignments from CS 131 taught by Professor Carey Nachenberg in Fall 2022 <br /> 
 <br /> 
 Topics: <br /> 
